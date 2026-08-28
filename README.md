@@ -17,6 +17,7 @@ topics
 - (code) how async vs sync work behind the sync
 - (code) silent bugs but deadly
 - (code) common technical pitfalls
+- (code) why encrypting password on frontend might be bad
 
 prompt
 - write a paper for {X}
