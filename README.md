@@ -14,6 +14,7 @@ topics
 - (code) code smell and how to identify them
 - (design) common design principles and how to apply them
 - (state) comparing viewstate, session, cache and cookies
+- (code) how async vs sync work behind the sync
 
 prompt
 - write a paper for {X}
