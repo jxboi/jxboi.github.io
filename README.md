@@ -12,7 +12,7 @@ topics
 - (test) best practices in unit and integration tests
 - (code) code refactoring from easy to hard
 - (code) code smell and how to identify them
-- (design) design principles with examples
+- (design) common design principles and how to apply them
 
 prompt
 - write a paper for {X}
