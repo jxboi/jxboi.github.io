@@ -10,6 +10,7 @@ topics
 - (architecture) using Modular Monolith and scaling it
 - (api) api responses best practices
 - (test) best practices in unit and integration tests
+- (code) code refactoring, easy to hard
 
 prompt
 - write a paper for {X}
