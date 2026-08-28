@@ -13,6 +13,7 @@ topics
 - (code) code refactoring from easy to hard
 - (code) code smell and how to identify them
 - (design) common design principles and how to apply them
+- (state) comparing viewstate, session, cache and cookies
 
 prompt
 - write a paper for {X}
