@@ -6,5 +6,6 @@ topics
 
 prompt
 - write a paper for {X}
+- include best practices
 - include pros and cons
 - incldue dos and donts
