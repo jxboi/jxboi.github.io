@@ -4,6 +4,7 @@ topics
 - (git) branch strategy
 - (security) exploring different strategies to store sensitive variables in local development environment
 - (algo) how binary search reduces time complexity and use in database and library lookup
+- (search) limitations of a rag system
 
 prompt
 - write a paper for {X}
