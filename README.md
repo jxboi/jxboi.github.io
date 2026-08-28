@@ -6,6 +6,7 @@ topics
 - (algo) how binary search reduces time complexity and use in database and library lookup
 - (knowledge) limitations of a rag system
 - (knowledge) pre compiled knowledge base vs full rag system
+- (architecture) how to build a flexible software architecture that is is simple but scales
 
 prompt
 - write a paper for {X}
