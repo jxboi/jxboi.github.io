@@ -11,3 +11,4 @@ prompt
 - include pros and cons
 - incldue dos and donts
 - use simple to understand language
+- use diagrams to explain
