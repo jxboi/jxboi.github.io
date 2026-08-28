@@ -15,6 +15,8 @@ topics
 - (design) common design principles and how to apply them
 - (state) comparing viewstate, session, cache and cookies
 - (code) how async vs sync work behind the sync
+- (code) silent bugs but deadly
+- (code) common technical pitfalls
 
 prompt
 - write a paper for {X}
