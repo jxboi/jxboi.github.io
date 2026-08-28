@@ -9,3 +9,4 @@ prompt
 - include best practices
 - include pros and cons
 - incldue dos and donts
+- use simple to understand language
