@@ -8,6 +8,7 @@ topics
 - (knowledge) pre compiled knowledge base vs full rag system
 - (architecture) how to build a flexible software architecture that is is simple but scales
 - (api) api responses best practices
+- (test) best practices in unit and integration tests
 
 prompt
 - write a paper for {X}
