@@ -3,6 +3,7 @@ topics
 - (sql) using execution plan to find bottleneck
 - (git) branch strategy
 - (security) exploring different strategies to store sensitive variables in local development environment
+- (algo) how binary search reduces time complexity and use in database and library lookup
 
 prompt
 - write a paper for {X}
